@@ -61,3 +61,5 @@ Licensing
    <http://java.sun.com/javase/technologies/security/>.  ActiveMQ does 
    not include these libraries itself, but is designed to use them.
 
+
+Join the chat at https://gitter.im/emopers/activemq
